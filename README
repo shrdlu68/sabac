@@ -1,0 +1,3 @@
+A Simple Adaptive Binary Arithmetic Coder
+
+Implements incremental output and other techniques as detailed in http://www.ittc.ku.edu/~jsv/Papers/HoV94.arithmetic_codingOfficial.pdf
